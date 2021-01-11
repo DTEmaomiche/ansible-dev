@@ -1,5 +1,6 @@
 # ansible-dev
 Learning to track my code for ansible development
+Add a sentence about wanting to learn how to version control projects with git. 
 
  # ansible-dev (Project Title)
  
